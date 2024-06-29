@@ -1,0 +1,49 @@
+{
+  "accounts": [
+    {
+      "resourceId": "5a59028c-e757-4f22-b88c-3ba90573383c",
+      "iban": "SE3750000000054400047881",
+      "bban": "54400047881",
+      "status": "enabled",
+      "currency": "SEK",
+      "ownerName": "FREDDIE GUMMESSON",
+      "product": "Privatkonto",
+      "name": "Private",
+      "_links": {
+        "transactions": {
+          "href": "/accounts/5a59028c-e757-4f22-b88c-3ba90573383c/transactions?bookingStatus=booked"
+        }
+      }
+    },
+    {
+      "resourceId": "0b95727a-8967-452e-83d3-03fc07f9934d",
+      "iban": "SE2550000000054400047903",
+      "bban": "54400047903",
+      "status": "enabled",
+      "currency": "SEK",
+      "ownerName": "FREDDIE GUMMESSON",
+      "product": "Privatkonto",
+      "name": "Private",
+      "_links": {
+        "transactions": {
+          "href": "/accounts/0b95727a-8967-452e-83d3-03fc07f9934d/transactions?bookingStatus=booked"
+        }
+      }
+    },
+    {
+      "resourceId": "6e367bd7-581a-48da-af3b-3406d4c9247b",
+      "iban": "SE6550000000054401304012",
+      "bban": "54401304012",
+      "status": "enabled",
+      "currency": "SEK",
+      "ownerName": "FREDDIE GUMMESSON",
+      "product": "Personallönekonto",
+      "name": "Salary",
+      "_links": {
+        "transactions": {
+          "href": "/accounts/6e367bd7-581a-48da-af3b-3406d4c9247b/transactions?bookingStatus=booked"
+        }
+      }
+    }
+  ]
+}

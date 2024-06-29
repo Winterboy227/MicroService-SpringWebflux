@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: microservice-payment
+  profiles:
+    active: local
+
+
+integrations:
+  seb:
+    baseUrl: https://api-sandbox.sebgroup.com
+    token: "PshOfSdSGMRjggEJCKYY"
+    connectTimeout: 5000
+    readTimeout: 10000

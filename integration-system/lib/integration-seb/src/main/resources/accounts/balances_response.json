@@ -1,0 +1,22 @@
+{
+  "account": {
+    "iban": "SE0350000000054400047911"
+  },
+  "balances": [
+    {
+      "balanceType": "interimAvailable",
+      "balanceAmount": {
+        "amount": "500000.000",
+        "currency": "SEK"
+      },
+      "creditLimitIncluded": true
+    },
+    {
+      "balanceType": "interimBooked",
+      "balanceAmount": {
+        "amount": "500000.000",
+        "currency": "SEK"
+      }
+    }
+  ]
+}

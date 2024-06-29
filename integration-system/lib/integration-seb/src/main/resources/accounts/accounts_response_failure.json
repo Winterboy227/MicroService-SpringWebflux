@@ -1,0 +1,4 @@
+{
+  "error_description": "FBTOAU202E The required parameter: [code] was not found in the request.",
+  "error": "invalid_request"
+}
